@@ -1,10 +1,15 @@
-# <img src="https://shields.io" height="40"> 👋
+# Hey, I'm Lifeless_Sweat 👋
 
 I'm a developer who loves building things that actually work. I spend most of my time writing code, breaking things, and figuring out how to fix them. 
 
 - 💻 Right now, I'm diving deeper into [insert a technology, e.g., React, Go, Backend Dev].
 - 🚀 Looking to jump into open-source projects and collaborate on cool tools.
 - 💬 Ask me about whatever you're working on—always down to chat tech.
+
+---
+
+### My Live Discord Status
+[![Discord Status](https://cnrad.dev)](https://discord.com)
 
 ---
 
