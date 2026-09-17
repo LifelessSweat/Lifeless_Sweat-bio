@@ -1,4 +1,5 @@
-# Hey, I'm ![Lifeless_Sweat](https://demolab.com) 👋
+# Hey, I'm $\color{#8B0000}{\text{Lifeless\_Sweat}}$ 👋
+
 
 I'm a developer who loves building things that actually work. I spend most of my time writing code, breaking things, and figuring out how to fix them. 
 
