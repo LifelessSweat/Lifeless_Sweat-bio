@@ -1,8 +1,8 @@
-# Hey, I'm [Your Name] 👋
+<h1>Hey, I'm <span style="color: #8B0000;">Lifeless_Sweat</span> 👋</h1>
 
-I'm a developer who loves building things that actually work. I spend most of my time writing code, breaking things, and figuring out how to fix them. 
+Making mods for Polytrack a popular browser game. 
 
-- 💻 Right now, I'm diving deeper into [insert a technology, e.g., React, Go, Backend Dev].
+- I like template
 - 🚀 Looking to jump into open-source projects and collaborate on cool tools.
 - 💬 Ask me about whatever you're working on—always down to chat tech.
 
