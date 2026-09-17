@@ -1,5 +1,4 @@
-# Hey, I'm $\color{#8B0000}{\text{Lifeless\_Sweat}}$ 👋
-
+# <img src="https://shields.io" height="40"> 👋
 
 I'm a developer who loves building things that actually work. I spend most of my time writing code, breaking things, and figuring out how to fix them. 
 
